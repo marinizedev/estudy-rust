@@ -1,0 +1,19 @@
+[workspace]
+resolver = "3"
+members = [
+    "aula2",
+    "aula3",
+    "aula4",
+    "aula5",
+    "aula6",
+    "aula7",
+    "aula8",
+    "aula9",
+    "aula9/aula9_1",
+    "aula9/aula9_2",
+    "aula10",
+    "aula10/aula10_1",
+    "aula11",
+    "aula12",
+    "aula13",
+]
